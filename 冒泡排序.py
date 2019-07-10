@@ -1,5 +1,4 @@
-a = [133,45,34,2]
-# print(sorted(a))
+a = [5,4,2,1,3,0.5,20]
 print("原始序列:",a)
 for j in range(0,len(a) -1 ):
     for i in range(len(a)-1-j):
