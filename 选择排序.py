@@ -1,5 +1,5 @@
 # 选择排序
-test_list = [5,4,2,1,3,0.5,20]
+test_list = [5,4,2,1,3]
 i = 0
 while i < len(test_list) - 1:
     for j in range(i+1,len(test_list)):
