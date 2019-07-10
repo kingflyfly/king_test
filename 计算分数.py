@@ -1,4 +1,4 @@
-# 计算
+# 计算分数
 total = 0.0
 def jisuan():
     global total
